@@ -1,5 +1,5 @@
 # 💫 About Me:
-Queremos aprender el como mejorar en nuestro deseo de aprender a programar y diseñar juegos. 
+Programador novato con conocimientos en desarrollo web utilizando HTML, CSS y JavaScript, así como bases de programación en C#. Motivado por aprender y mejorar continuamente, con capacidad para adaptarme a nuevos entornos y trabajar en equipo Me destaco por mi interés en construir interfaces funcionales y ordenadas, y por mi compromiso con el crecimiento profesional en el área del desarrollo de software. Actualmente enfocado en fortalecer mis habilidades técnicas y adquirir experiencia práctica en proyectos reales. 
 
 
 ## 🌐 Socials:
